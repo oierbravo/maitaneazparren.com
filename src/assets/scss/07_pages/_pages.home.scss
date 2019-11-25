@@ -1,0 +1,27 @@
+body {
+    background-image: url('/assets/images/fondo-temporal.png');
+    background-size: cover;
+    font-family: 'Muli', sans-serif;
+    @include media-breakpoint-down(lg) {
+        background-size: auto;
+      }
+    
+}
+
+h1 {
+      font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 1.7rem;
+}
+
+h1,h2,h3 {
+    font-family: 'Muli', sans-serif;
+}
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}

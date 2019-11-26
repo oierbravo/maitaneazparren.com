@@ -1,19 +1,13 @@
 site:
-  name: Prueba
-  url: http://localhost
+  name: Maitane Azparren
+  url: https://maitaneazaparren.com
   googleAnalitycsId: UA-XXXXXXXX-1
-  description: Esto es una descripcion basica.
-  author: WhoKnows
+  description: Maitane Azparren
+  author: Maitane Azparren
 og:
-  title: TituloOG
-  description: DescriptionOG
+  title: Maitane Azparren
   type: article
-  image: http(s)://url-de-la-imagen-og
   locale: es
 twitter:
   card: summary
-  title: TituloTwitter
-  description: DescriptionTwitter
-  site: '@cuentaDeTwitter'
-  creator: '@cuentaDeTwitter'
-  image: http(s)://url-de-la-imagen-twitter
+  title: Maitane Azparren

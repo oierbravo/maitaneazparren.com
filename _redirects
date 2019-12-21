@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://upbeat-brown-23ef86.netlify.com/* https://www.maitaneazparren.com/:splat 301!
